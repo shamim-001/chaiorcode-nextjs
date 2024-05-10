@@ -1,0 +1,7 @@
+- [Create api key](https://resend.com/api-keys)
+- `lib/resend.ts`
+- `helpers/sendVerificationEmail.ts`
+- `components/emails/VarificationEmail.tsx`
+  - `npm i react-email`
+- `types/ApiResponse.ts`
+- `app/api/sign-up/route.ts`
